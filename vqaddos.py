@@ -188,10 +188,10 @@ def logo():
     print('''
              - PassDDoS#6595 Selling Bypass JS/UAM/Captcha/etc -
 
-    /\_____/\     88""Yb    db    .dP"Y8 .dP"Y8 8888b.  8888b.   dP"Yb  .dP"Y8
-   /  o   o  \    88__dP   dPYb   `Ybo." `Ybo."  8I  Yb  8I  Yb dP   Yb `Ybo."
-  ( ==  ^  == )   88"""   dP__Yb  o.`Y8b o.`Y8b  8I  dY  8I  dY Yb   dP o.`Y8b
-   )         (    88     dP""""Yb 8bodP' 8bodP' 8888Y"  8888Y"   YbodP  8bodP'
+    /\_____/\     Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
+   /  o   o  \    Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
+  ( ==  ^  == )   Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
+   )         (    Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
   (           )   ========================================================
  ( (  )   (  ) )     Anonymous DDoSer v2.8 - Best HTTP Flooder For FREE
 (__(__)___(__)__) ===== Version: [ Private ]''')
